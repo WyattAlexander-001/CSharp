@@ -47,6 +47,11 @@ namespace FirstProgram
         
                 """"";
 
+
+
+            Console.WriteLine("Hello, " + firstName + "!");
+            Console.WriteLine("Not a book but.... \n" +book);
+
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -56,8 +61,50 @@ namespace FirstProgram
                 Console.WriteLine("");
             }
 
-            Console.WriteLine("Hello, " + firstName + "!");
-            Console.WriteLine("Not a book but.... \n" +book);
+            //List Data Structure
+            List<int> numbers = new List<int>();
+            numbers.Add(1);
+            numbers.Add(2);
+            numbers.Add(3);
+            numbers.Add(4);
+            numbers.Add(5);
+            numbers.Add(6);
+            numbers.Add(7);
+            numbers.Add(8);
+            numbers.Add(9);
+            numbers.Add(10);
+            //numbers.Remove(5); //Removes the number 5 from the which is at index 4 
+            numbers.RemoveAt(5); //Removes the number at index 5 which is 6
+            //numbers.Clear(); //Removes all the numbers from the list
+            Console.WriteLine("Total count in list: "+ numbers.Count); //Returns the number of elements in the list
+            //Print out the list
+            foreach (int number in numbers)
+            {
+                Console.WriteLine(number);
+            }
+
+            //Create a User object //public User(string firstName, string lastName, int age, string email, string password, string address, string city, string state, string zip, string phoneNumber, string creditCard, string expirationDate, string cvv, string billingAddress, string billingCity, string billingState, string billingZip, string billingPhoneNumber)
+            User Wyatt = new User(
+                            "Wyatt", // firstName
+                            "B", // lastName
+                            29, // age
+                            "W@gmail.com", // email
+                            "cupcake", // password
+                            "123 Maple Street", // address
+                            "Anytown", // city
+                            "Anystate", // state
+                            "12345", // zip
+                            "555-1234", // phoneNumber
+                            "1111 2222 3333 4444", // creditCard
+                            "12/27", // expirationDate
+                            "123", // cvv
+                            "123 Maple Street", // billingAddress
+                            "Anytown", // billingCity
+                            "Anystate", // billingState
+                            "12345", // billingZip
+                            "555-1234" // billingPhoneNumber
+                        );
+            Console.WriteLine("Wyatt's phone: " + Wyatt.PhoneNumber);
 
 
 
