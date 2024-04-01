@@ -1,0 +1,15 @@
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfoInputs.cache
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.AssemblyInfo.cs
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.csproj.CoreCompileInputs.cache
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.sourcelink.json
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.exe
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.deps.json
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.runtimeconfig.json
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.dll
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\bin\Debug\net8.0\FirstProgram.pdb
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.dll
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\refint\FirstProgram.dll
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.pdb
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\FirstProgram.genruntimeconfig.cache
+I:\Games\CSharp\CliApps\FirstProgram\FirstProgram\obj\Debug\net8.0\ref\FirstProgram.dll

@@ -1,0 +1,15 @@
+I:\Games\CSharp\CliApps\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.exe
+I:\Games\CSharp\CliApps\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.deps.json
+I:\Games\CSharp\CliApps\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.runtimeconfig.json
+I:\Games\CSharp\CliApps\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.dll
+I:\Games\CSharp\CliApps\AbstractFactoryExample\bin\Debug\net8.0\AbstractFactoryExample.pdb
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.GeneratedMSBuildEditorConfig.editorconfig
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.AssemblyInfoInputs.cache
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.AssemblyInfo.cs
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.csproj.CoreCompileInputs.cache
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.sourcelink.json
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.dll
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\refint\AbstractFactoryExample.dll
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.pdb
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\AbstractFactoryExample.genruntimeconfig.cache
+I:\Games\CSharp\CliApps\AbstractFactoryExample\obj\Debug\net8.0\ref\AbstractFactoryExample.dll
