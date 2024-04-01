@@ -104,7 +104,8 @@ namespace FirstProgram
                             "12345", // billingZip
                             "555-1234" // billingPhoneNumber
                         );
-            Console.WriteLine("Wyatt's phone: " + Wyatt.PhoneNumber);
+            Console.WriteLine("Wyatt's phone: " + Wyatt.GetPhoneNumber());
+            Wyatt.PrintUser();
 
 
 

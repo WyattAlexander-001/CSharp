@@ -1,0 +1,15 @@
+I:\Games\CSharp\CliApps\Pyramid\bin\Debug\net8.0\Pyramid.exe
+I:\Games\CSharp\CliApps\Pyramid\bin\Debug\net8.0\Pyramid.deps.json
+I:\Games\CSharp\CliApps\Pyramid\bin\Debug\net8.0\Pyramid.runtimeconfig.json
+I:\Games\CSharp\CliApps\Pyramid\bin\Debug\net8.0\Pyramid.dll
+I:\Games\CSharp\CliApps\Pyramid\bin\Debug\net8.0\Pyramid.pdb
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.AssemblyInfoInputs.cache
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.AssemblyInfo.cs
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.csproj.CoreCompileInputs.cache
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.sourcelink.json
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.dll
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\refint\Pyramid.dll
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.pdb
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\Pyramid.genruntimeconfig.cache
+I:\Games\CSharp\CliApps\Pyramid\obj\Debug\net8.0\ref\Pyramid.dll
