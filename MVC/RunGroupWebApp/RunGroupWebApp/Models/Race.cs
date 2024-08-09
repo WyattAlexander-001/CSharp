@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RunGroupWebApp.Models
 {
-    public class Races
+    public class Race
     {
         [Key]
         public int Id { get; set; }
@@ -18,7 +18,5 @@ namespace RunGroupWebApp.Models
         [ForeignKey("AppUser")]
         public string? AppUserId { get; set; }
         public AppUser? AppUser { get; set; }
-
-
     }
 }
