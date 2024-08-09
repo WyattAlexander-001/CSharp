@@ -1,0 +1,15 @@
+I:\Games\CSharp\CliApps\CodeMonkey\bin\Debug\net8.0\CodeMonkey.exe
+I:\Games\CSharp\CliApps\CodeMonkey\bin\Debug\net8.0\CodeMonkey.deps.json
+I:\Games\CSharp\CliApps\CodeMonkey\bin\Debug\net8.0\CodeMonkey.runtimeconfig.json
+I:\Games\CSharp\CliApps\CodeMonkey\bin\Debug\net8.0\CodeMonkey.dll
+I:\Games\CSharp\CliApps\CodeMonkey\bin\Debug\net8.0\CodeMonkey.pdb
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.GeneratedMSBuildEditorConfig.editorconfig
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.AssemblyInfoInputs.cache
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.AssemblyInfo.cs
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.csproj.CoreCompileInputs.cache
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.sourcelink.json
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.dll
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\refint\CodeMonkey.dll
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.pdb
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\CodeMonkey.genruntimeconfig.cache
+I:\Games\CSharp\CliApps\CodeMonkey\obj\Debug\net8.0\ref\CodeMonkey.dll
